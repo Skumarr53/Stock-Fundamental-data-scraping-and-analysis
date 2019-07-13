@@ -4,4 +4,9 @@ Stock investing, if done properly, yield better returns compared to other invest
 
 Reqirements:
 1. Since data is scraped from Screener.com you ought to create an account.
-2. Python equipped with Selenium, Numpy, Pandas modules 
+2. Python equipped with Selenium, Numpy, Pandas modules
+
+
+Scripts:
+1. Stock_Fundamental_Data_Screener.ipynb - Financial ratios table 
+Stock_FundamentalPlots.ipynb - Plots of key parameters over time 
