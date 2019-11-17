@@ -10,10 +10,10 @@ This project tries to make initial stocks screening process and the most importa
 
 ## Files Description
 
-1. Stock_FundamentalPlots.ipynb - Ipython Notebook that crawls through the list of stock pages and collects the historical data for selected performance indicatores
+1. Stock_FundamentalPlots.ipynb - Ipython Notebook that crawls through the list of stock pages and collects the historical data for selected performance indicators
 2. Financials_Considered.txt - List of key indicators that are used for screening potential stocks.
-3. Ratios_Descriptions.txt - Short description/defination about ratio.
-4. TrendPlots - Folder that contains trend plot of performance indicators for stocks.
+3. Ratios_Descriptions.txt - Short description/defination about indicators.
+4. TrendPlots - Folder that contains trend plot of indicators historical performance of stocks.
 5. Stock_Screener - csv file that has list of stocks with indicators for current financial year that can used for stock screening
 6. trenddata.pkl - pickle for that stores historical perfomance data of all companies 
 
