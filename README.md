@@ -15,14 +15,33 @@ This project tries to make initial stocks screening process and the most importa
 3. Ratios_Descriptions.txt - Short description/defination about indicators.
 4. TrendPlots - Folder that contains trend plot of indicators historical performance of stocks.
 5. Stock_Screener - csv file that has list of stocks with indicators for current financial year that can used for stock screening
-6. trenddata.pkl - pickle for that stores historical perfomance data of all companies 
+6. trenddata.pkl - pickle for that stores historical perfomance data of all companies
 
-##
+## Approch:
+
+ This approch involves following steps:
+ 1. Logging into a data provider server.
+ 2. Submitting the query that filters the stocks qualifying our criteria
+ 3. Collecting the stocks links storing in list from the first page (if results are more than a page).
+ 4. Looping over stock link page and fetching required data, and simultaneously generating Plots for every link.
+ 5. Move to next page and repeat step 3-4 until it hits last page.
+
+Requirements:
+1. Python: the Web craweler is built in Python
+2. Selenium: tool that interacts with web server on backend
+3. Beautifulsoap: package that helps to fetch data form HTML docment
+4. Numpy: Raw data which is text format is converted and stored in numeric array fromat
+5. Matplotlib: Plots Generation
+
+
+1. In this step we intialize the selenium webdriver and use that to log in into the web sever by submitting our credentials. Screener.in is the data source and Login link is provided below. https://www.screener.in/login/
+
+![Loign page]('')    
 
 
 
 
 Scripts:
-1. Stock_Fundamental_Data_Screener.ipynb - Financial ratios table 
-Stock_FundamentalPlots.ipynb - Plots of key parameters over time 
-Stock_FundamentalPlots.ipynb - Plots of key parameters over time 
+1. Stock_Fundamental_Data_Screener.ipynb - Financial ratios table
+Stock_FundamentalPlots.ipynb - Plots of key parameters over time
+Stock_FundamentalPlots.ipynb - Plots of key parameters over time

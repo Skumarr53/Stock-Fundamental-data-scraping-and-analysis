@@ -1,0 +1,96 @@
+'Stock Name'- Name of the company
+'Sector' - Operational sector ex. health care, Financial
+'Industry' - Industry type
+'Market Cap' - Market Capitalization of the company at current market price.
+
+'Current Price' - Last closing price of the stock.
+
+'Price to book value' - Price to book value of the stock.
+
+'Piotroski score' - Companies with Piotroski score of 9 which reflects nine criteria used to determine the strength of a firm's financial position. It is based on 3 most important criteria: Profitability, Leverage and operating efficiency.
+
+'Promoter holding' - Promoter holding as per latest shareholding filing
+
+'Unpledged promoter holding' - Percentage of unpledged promoter holding of total equity capital.
+
+'Change in promoter holding 3Years' - Change in promoters holding over last 3 years.
+
+'Debt preceding year' - Total secured and unsecured loan preceding year.
+
+'Debt' - Total borrowings as per latest annual numbers
+
+'Asset Turnover Ratio' - Annual Sales / Annal Assets where Annual Assets = Net worth + Borrowings
+
+'Inventory turnover ratio' - Inventory turnover ratio for last year.
+* If a company is selling popular products, then the goods in the inventory gets cleared rapidly (Higher ratio)
+* compare with competitors as it differs for diff sectors
+
+
+'Cash Conversion Cycle' - How quickly the company turns its inventory into sales, and its sales into cash, which is then used to pay its suppliers for goods and services
+
+'Financial leverage' - (Total Borrowings + Net worth) / Net worth
+
+'Quick ratio'
+
+'Cash beginning of last year' - Cash at beginning of year from latest cash-flow statement.
+
+'Cash end of last year' - Cash at end of year from last year's balance sheet
+
+
+'Sales Growth (3Yrs)' - Compounded Growth (growth) in sales over last 3 years.
+'Profit growth' - Profit growth based on trailing 12 months vs previous 12 months
+'Return on assets 3years' - ( Net Profit / Total assets ) of 3 years
+'Return on assets'
+'Return on equity 5years growth' - Compounded growth in return on equity over last 5 years.
+
+'ROE' - 
+* ROE: Return on average equity measures a company's profitability by revealing how much profit a company generates with the money shareholders have invested.
+* Higher the ROE, better it is for the investor, however make sure you check the debt levels along with this
+
+'ROCE' - 
+EBIT / Annual Average Capital Employed Capital Employed = Fixed Assets + Working Capital
+
+'Price to Sales Ratio'
+* Stock price of the company with the company’s sales per share.
+* higher the P/S ratio, higher is the valuation of the firm (over valued) compare with competitors.
+* If company is trading at a higher valuation from the P/S ratio perspective, do remember to check the profit margin
+
+'Stock P/E'
+* Current Market Price to trailing 12 month's earnings per share.
+* Average price to earning ratio during last 3 years.
+* signifies how much participants pay for a stock per unit of earning.
+* be cautious about the earning manipulation (read Annual reports)
+* A valuation gets attractive when the index is trading at 16x or below
+ 
+'EPS'
+* EPS = PAT / Total Number of shares
+* EPS measures the profitability of a company on a per share basis.
+* EPS should be consistent with the Net Profits.
+* If a company is diluting its equity then it is not good for its shareholders
+ 
+'EVEBITDA'
+* Enterprise Value / EBITDA Ratio
+
+'Earnings yield'
+* Earnings yield formula as given by JG i.e. Trailing EBIT/Enterprise Value
+
+'Price to Earnings To Growth'
+* P/E ratio / earnings growth rate. The lower the PEG ratio, the more the stock may be undervalued given its earnings performance.
+* lower the better, PEG ratio below one is desirable
+
+'OPM'
+* good indicator of how well it is being managed and how risky it is.
+* how much income company making for each rupee of sales
+* Operating Profit Margin = Operating Income / Sales Revenue
+* Higher the margin, higher is the evidence of a sustainable moat (something unique product stands out of corwd)
+
+'NPM last year'
+* Net profit margin last year.
+
+'NPM preceding year'
+* Net profit margin as per preceding annual results.
+
+'NPM latest quarter'
+* Net profit margin as per latest quarterly results.
+
+
