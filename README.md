@@ -42,8 +42,14 @@ Requirements:
 
 query link: https://www.screener.in/screen/raw/?sort=&source=&order=&page=1&query=Market+Capitalization%3E0
 
-![Loign page](ScreenShots/QueryPage.png)
+![Query page](ScreenShots/QueryPage.png)
 
+Notice that there are 3879 results that passes the creteria set by us and they are stored across 156 pages. we need to insert the page number in the query link embeded at "&page=1&" to crawl across the pages 1-156 to get all the resulted stock links. For Now, we are in page 1, lets collect all the stock page links and store them in list. the links can be scraped by extracting 'href' tags associated with stock links using 'bs4' package. We need to visit each stock page to source the data from it. It's done by creating beautifulsoup object of page, then locating tags that corresponds to the data we are interested in and storing the data in array format. below scroll over the example to get glance of web page.
+
+![page visual scan](ScreenShots/QueryPage.png)
+
+
+The page contains several tables of historial data of parameters that describes the past perfomance and financial health of the company. But I have considered only few indicators based on my intiuation that decides stabilty and profitability of a company inthe competative environment in the long run.
 
 
 
