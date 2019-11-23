@@ -36,7 +36,14 @@ Requirements:
 
 1. In this step we intialize the selenium webdriver and use that to log in into the web sever by submitting our credentials. Screener.in is the data source and Login link is provided below. https://www.screener.in/login/
 
-![Loign page]('')    
+![Loign page](ScreenShots/LoginPage.png)
+
+2. Once we successfully get inside server now we have access to the data. now we can run our query to to filter the stock that pass our desired criteria. I have set simple query that 'market capitalization > 0'. After running this query it lists out all the companies that have market capitaization above zero. Below is the screenshot of resulting page.
+
+query link: https://www.screener.in/screen/raw/?sort=&source=&order=&page=1&query=Market+Capitalization%3E0
+
+![Loign page](ScreenShots/QueryPage.png)
+
 
 
 
