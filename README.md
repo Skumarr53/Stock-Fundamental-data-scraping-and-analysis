@@ -69,8 +69,11 @@ I will present here some of my insights about its management. Lets go over them.
 
 These insights just scractes the surface there is more to it like understanding interactions between indicators give even better insights. Reading plots and developing story is an art that can be mastered by practice and experience. It is advised go over past few year financial reports to know the actual reasons behind changes obsevered in plots.
 
-Now we scraped data for first company on the first page. this excercise has to be repeated for all the stocks in the first page, then move to second page and so on iteratively.   
+Now we scraped data for first company on the first page. this excercise has to be repeated for all the stock links in the first page, then move on to the second page and so on iteratively.
 
+Let's put our webcrawler into action. For demostration purpose I made to crawl to login into source, visit first three pages and in each page its performs scraping on the first three stock pages, and logout from source. Below is clip of it.
+
+![Web Crawling](ScreenShots/WebCrawler.mp4)
 
 
 
