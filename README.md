@@ -73,7 +73,7 @@ Now we scraped data for the first company on the first page. this exercise has t
 
 Let's put our webcrawler into action. For demonstration purpose I made to the crawler to login into the source, visit first three pages and in every page, its performs scraping on the first three stock pages, and log out from the source. Below is a clip of it.
 
-![Web Crawling](ScreenShots/WebCrawler.mp4)
+![Web Crawling](ScreenShots/WebCrawler_working.gif)
 
 
 
