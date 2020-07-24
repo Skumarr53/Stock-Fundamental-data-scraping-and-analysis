@@ -1,16 +1,15 @@
 # Web Crawler for scraping Financial data  
 
-- [Web Crawler for scraping Financial data](#web-crawler-for-scraping-financial-data)
-  - [Problem Statement:](#problem-statement)
-  - [Files Description](#files-description)
-  - [Approach:](#approach)
-  - [Requirements:](#requirements)
-  - [Steps in  detail](#steps-in-detail)
-    - [Login](#login)
-    - [Iterating search results](#iterating-search-results)
-    - [Plot Generation](#plot-generation)
-  - [Technologies used](#technologies-used)
-  - [Creator:](#creator)
+- [Problem Statement:](#problem-statement)
+- [Files Description](#files-description)
+- [Approach:](#approach)
+- [Requirements:](#requirements)
+- [Steps in  detail](#steps-in-detail)
+  - [Login](#login)
+  - [Iterating search results](#iterating-search-results)
+  - [Plot Generation](#plot-generation)
+- [Technologies used](#technologies-used)
+- [Creator:](#creator)
 
 
 ## Problem Statement:
