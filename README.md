@@ -1,15 +1,16 @@
 # Web Crawler for scraping Financial data  
 
-- [Problem Statement:](#problem-statement)
-- [Files Description](#files-description)
-- [Approach:](#approach)
-- [Requirements:](#requirements)
-- [Steps in  detail](#steps-in-detail)
-  - [Login](#login)
-  - [Iterating search results](#iterating-search-results)
-  - [Plot Generation](#plot-generation)
-- [Technologies used](#technologies-used)
-- [Creator:](#creator)
+- [Web Crawler for scraping Financial data](#web-crawler-for-scraping-financial-data)
+  - [Problem Statement:](#problem-statement)
+  - [Files Description](#files-description)
+  - [Approach:](#approach)
+  - [Requirements:](#requirements)
+  - [Steps in  detail](#steps-in-detail)
+    - [Login](#login)
+    - [Iterating search results](#iterating-search-results)
+    - [Plot Generation](#plot-generation)
+  - [Technologies used](#technologies-used)
+  - [Creator:](#creator)
 
 
 ## Problem Statement:
@@ -20,11 +21,8 @@ I took up this project to make the initial stocks screening process and the most
 
 ## Files Description
 
-1. Stock_FundamentalPlots.ipynb - Ipython Notebook that crawls through the list of stock pages and collects the historical data for selected performance indicators
-2. Financials_Considered.txt - List of key indicators that are used for screening potential stocks.
-3. Ratios_Descriptions.txt - Short description/definition of indicators.
-4. TrendPlots - Folder that contains the trend plot of indicators historical performance of stocks.
-5. Stock_Screener - CSV file that has a list of stocks with indicators for the current financial year that can be used for stock screening
+1. StockFundamentals_Scraper.ipynb - Ipython Notebook contains code that scrapes through the list of stock pages and collects the historical data for selected performance indicators
+2. TrendPlots - Folder that contains the trend plots of performance indicators for sample of stocks stocks.
 
 ## Approach:
 
