@@ -1,1 +1,6 @@
 .env
+Stock_Fundamental_Data_Screener.ipynb
+Financials_Considered.txt
+Indicator_Descriptions.txt
+.ipynb_checkpoints
+.vscode
